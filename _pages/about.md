@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Assistant Professor in Urban and Regional Planning</a>. University of Illinois, Urbana-Champaign.
 
 profile:
   align: right
