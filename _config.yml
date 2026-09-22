@@ -2,10 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Irene Farah
+first_name: Irene
+last_name: Farah
+url: https://ifarah.github.io
+baseurl: /irenef   # use this if you keep the name "irenef"
+                   # leave it empty (but keep the line) if you renamed to ifarah.github.io
+                   
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
