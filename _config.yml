@@ -6,20 +6,18 @@ title: Irene Farah
 first_name: Irene
 last_name: Farah
 url: https://ifarah.github.io
-baseurl: /irenef   # use this if you keep the name "irenef"
-                   # leave it empty (but keep the line) if you renamed to ifarah.github.io
-                   
+baseurl: /irenef # set to empty (keep the line) when this repo becomes ifarah.github.io
+
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Irene Farah, Assistant Professor of Urban and Regional Planning at the University of Illinois Urbana-Champaign. Research on urban governance, informality, street vending, and spatial data science.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: urban planning, urban governance, informality, street vending, Mexico City, San Francisco, spatial data science, Irene Farah
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🏙️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 last_updated: false # set to true if you want to display last updated in the footer
@@ -137,8 +135,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: blog # blog_name will be displayed in your blog page
+blog_description: writing on urban informality, food, and spatial data
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -245,7 +243,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -349,16 +346,16 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Farah]
+  first_name: [Irene, I.]
 
   style: apa
   locale: en

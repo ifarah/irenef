@@ -9,9 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Assistant Professor</p>
-    <p>Urban and Regional Planning</p>
-    <p>University of Illinois, Urbana-Champaign</p>
+    <p><strong>Assistant Professor</strong></p>
+    <p>Department of Urban and Regional Planning</p>
+    <p>Center for Latin American Studies</p>
+    <p>National Center for Supercomputing Applications</p>
+    <p>University of Illinois Urbana-Champaign</p>
+    <p>312 Temple Buell Hall, Champaign, IL</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -38,5 +41,5 @@ Before my doctoral studies at UC Berkeley, I worked at the [Center for Spatial D
 - M.A., Social Sciences, University of Chicago  
 - B.A., Political Science, Instituto Tecnológico Autónomo de México (ITAM)
 
-**[CV and publications →](/files/Farah_CV_GitHub.pdf)**
+**[CV]({{ '/assets/pdf/Farah_CV.pdf' | relative_url }})** · **[All publications]({{ '/publications/' | relative_url }})**
 
