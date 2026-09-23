@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: 
 header:
-  og_image: "city.png"
+  og_image: "img/city.jpg"
 
 profile:
   align: right
