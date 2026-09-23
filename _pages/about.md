@@ -3,6 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: 
+header:
+  og_image: "city.png"
 
 profile:
   align: right
